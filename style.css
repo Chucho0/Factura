@@ -363,11 +363,15 @@ hr {
 
 @media (max-width: 550px) {
   .tabla .titulos {
-    /* background-color: #00B8A9;
-        border-color: #00B8A9;
-        color: #ffffff; */
     font-size: 11px;
-    /* text-align: center;
-        vertical-align: top; */
+  }
+}
+
+@media (max-width: 320px) {
+  .textocorreo {
+    font-size: 15px;
+  }
+  .textocuenta {
+    font-size: 15px;
   }
 }
