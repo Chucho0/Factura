@@ -367,11 +367,78 @@ hr {
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 330px) {
   .textocorreo {
     font-size: 15px;
   }
   .textocuenta {
     font-size: 15px;
+  }
+  .tabla {
+    width: 80%;
+  }
+  
+  .tabla td {
+    font-size: 10px;
+    padding: 10px 5px;
+  }
+  
+  .tabla th {
+    font-size: 10px;
+    padding: 10px 5px;
+
+  }
+  
+  .tabla .texto1 {
+    font-size: 10px;
+  }
+  
+  .tabla .tituloone {
+    font-size: 10px;
+  }
+  
+  .tabla .titulos {
+    font-size: 15px;
+
+  }
+
+  .tabla .titulodos {
+    font-size: 10px;
+  }
+  
+  .tabla .texto2 {
+    font-size: 10px;
+
+  }
+  .tabla .titulos {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 300px) {
+  .textocorreo {
+    font-size: 13px;
+  }
+  .textocuenta {
+    font-size: 13px;
+  }
+  .metododepago {
+    font-size: 13px;
+  }
+  .factura{
+    font-size: 32px;
+  }
+  .gracias {
+    font-size: 35px;
+
+  }
+}
+
+@media (max-width: 250px) {
+  .textocorreo {
+    font-size: 9px;
+  }
+  .textocuenta {
+    font-size: 9px;
   }
 }
