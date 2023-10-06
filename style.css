@@ -415,24 +415,91 @@ hr {
   }
 }
 
-@media (max-width: 300px) {
+@media (max-width: 320px) {
   .textocorreo {
-    font-size: 13px;
+    font-size: 8px;
   }
   .textocuenta {
-    font-size: 13px;
+    font-size: 8px;
   }
   .metododepago {
-    font-size: 13px;
+    font-size: 8px;
   }
-  .factura{
-    font-size: 32px;
+  .informacioncliente {
+    margin-left: 17px;
   }
-  .gracias {
-    font-size: 35px;
+  
+  .nombre {
+    font-size: 19px;
+  }
+  
+  .textocliente {
+    font-size: 10px;
+  }
 
+  .gracias {
+    font-size: 30px;
   }
+  
+  .ubicacion {
+    font-size: 8px;
+  }
+
+  .cuartocontenedor {
+
+    font-size: 9px;
+  }
+
+  .textototal {
+    margin-top: 13px;
+  }
+  
+
 }
+@media (max-width: 300px) {
+  .factura{
+    font-size: 29px;
+  }
+  .textocorreo {
+    font-size: 9px;
+  }
+  .textocuenta {
+    font-size: 9px;
+  }
+  .metododepago {
+    font-size: 9px;
+  }
+  .informacioncliente {
+    margin-left: 20px;
+  }
+  
+  .nombre {
+    font-size: 20px;
+  }
+  
+  .textocliente {
+    font-size: 11px;
+  }
+
+  .gracias {
+    font-size: 30px;
+  }
+  
+  .ubicacion {
+    font-size: 8px;
+  }
+
+  .cuartocontenedor {
+
+    font-size: 9px;
+  }
+
+  .textototal {
+    margin-top: 13px;
+  }
+  
+}
+
 
 @media (max-width: 250px) {
   .textocorreo {
@@ -441,4 +508,36 @@ hr {
   .textocuenta {
     font-size: 9px;
   }
+  .metododepago {
+    font-size: 11px;
+  }
+  .informacioncliente {
+    margin-left: 11px;
+  }
+  
+  .nombre {
+    font-size: 20px;
+  }
+  
+  .textocliente {
+    font-size: 13px;
+  }
+
+  .gracias {
+    font-size: 30px;
+  }
+  
+  .ubicacion {
+    font-size: 13px;
+  }
+
+  .cuartocontenedor {
+
+    font-size: 13px;
+  }
+
+  .textototal {
+    margin-top: 17px;
+  }
+  
 }
