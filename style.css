@@ -258,9 +258,7 @@ section {
   justify-content: end;
 }
 
-.cont_contacto {
-  margin-bottom: 5px;
-  font-size: 17px;
+.contacto {
   margin-bottom: 5px;
   font-size: 17px;
 }
@@ -371,32 +369,34 @@ hr {
   .textocorreo {
     font-size: 15px;
   }
+
   .textocuenta {
     font-size: 15px;
   }
+
   .tabla {
     width: 80%;
   }
-  
+
   .tabla td {
     font-size: 10px;
     padding: 10px 5px;
   }
-  
+
   .tabla th {
     font-size: 10px;
     padding: 10px 5px;
 
   }
-  
+
   .tabla .texto1 {
     font-size: 10px;
   }
-  
+
   .tabla .tituloone {
     font-size: 10px;
   }
-  
+
   .tabla .titulos {
     font-size: 15px;
 
@@ -405,13 +405,44 @@ hr {
   .tabla .titulodos {
     font-size: 10px;
   }
-  
+
   .tabla .texto2 {
     font-size: 10px;
 
   }
+
   .tabla .titulos {
     font-size: 10px;
+  }
+
+
+  .cuartocontenedor {
+
+    font-size: 9px;
+  }
+
+  .textototal {
+    margin-top: 13px;
+  }
+
+  .metododepago {
+    font-size: 15px;
+  }
+
+  .nombre {
+    font-size: 21px;
+  }
+
+  .textocliente {
+    font-size: 13px;
+  }
+
+  .ubicacion {
+    font-size: 10px;
+  }
+
+  .contacto {
+    font-size: 11px;
   }
 }
 
@@ -419,20 +450,23 @@ hr {
   .textocorreo {
     font-size: 8px;
   }
+
   .textocuenta {
     font-size: 8px;
   }
+
   .metododepago {
     font-size: 8px;
   }
+
   .informacioncliente {
     margin-left: 17px;
   }
-  
+
   .nombre {
     font-size: 19px;
   }
-  
+
   .textocliente {
     font-size: 10px;
   }
@@ -440,7 +474,7 @@ hr {
   .gracias {
     font-size: 30px;
   }
-  
+
   .ubicacion {
     font-size: 8px;
   }
@@ -453,30 +487,34 @@ hr {
   .textototal {
     margin-top: 13px;
   }
-  
 
 }
+
 @media (max-width: 300px) {
-  .factura{
+  .factura {
     font-size: 29px;
   }
+
   .textocorreo {
     font-size: 9px;
   }
+
   .textocuenta {
     font-size: 9px;
   }
+
   .metododepago {
     font-size: 9px;
   }
+
   .informacioncliente {
     margin-left: 20px;
   }
-  
+
   .nombre {
     font-size: 20px;
   }
-  
+
   .textocliente {
     font-size: 11px;
   }
@@ -484,7 +522,7 @@ hr {
   .gracias {
     font-size: 30px;
   }
-  
+
   .ubicacion {
     font-size: 8px;
   }
@@ -497,7 +535,6 @@ hr {
   .textototal {
     margin-top: 13px;
   }
-  
 }
 
 
@@ -505,20 +542,23 @@ hr {
   .textocorreo {
     font-size: 9px;
   }
+
   .textocuenta {
     font-size: 9px;
   }
+
   .metododepago {
     font-size: 11px;
   }
+
   .informacioncliente {
     margin-left: 11px;
   }
-  
+
   .nombre {
     font-size: 20px;
   }
-  
+
   .textocliente {
     font-size: 13px;
   }
@@ -526,7 +566,7 @@ hr {
   .gracias {
     font-size: 30px;
   }
-  
+
   .ubicacion {
     font-size: 13px;
   }
@@ -539,5 +579,5 @@ hr {
   .textototal {
     margin-top: 17px;
   }
-  
+
 }
