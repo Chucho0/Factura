@@ -363,17 +363,16 @@ hr {
   .tabla .titulos {
     font-size: 11px;
   }
-}
-
-@media (max-width: 330px) {
   .textocorreo {
-    font-size: 15px;
+    font-size: 13px;
   }
 
   .textocuenta {
-    font-size: 15px;
+    font-size: 13px;
   }
+}
 
+@media (max-width: 330px) {
   .tabla {
     width: 80%;
   }
@@ -579,5 +578,10 @@ hr {
   .textototal {
     margin-top: 17px;
   }
-
+.textofecha{
+  font-size: 15px;
+}
+.textofactura{
+  font-size: 15px;
+}
 }
