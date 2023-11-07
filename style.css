@@ -363,6 +363,7 @@ hr {
   .tabla .titulos {
     font-size: 11px;
   }
+
   .textocorreo {
     font-size: 13px;
   }
@@ -385,7 +386,6 @@ hr {
   .tabla th {
     font-size: 10px;
     padding: 10px 5px;
-
   }
 
   .tabla .texto1 {
@@ -398,7 +398,6 @@ hr {
 
   .tabla .titulos {
     font-size: 15px;
-
   }
 
   .tabla .titulodos {
@@ -407,16 +406,13 @@ hr {
 
   .tabla .texto2 {
     font-size: 10px;
-
   }
 
   .tabla .titulos {
     font-size: 10px;
   }
 
-
   .cuartocontenedor {
-
     font-size: 9px;
   }
 
@@ -479,14 +475,12 @@ hr {
   }
 
   .cuartocontenedor {
-
     font-size: 9px;
   }
 
   .textototal {
     margin-top: 13px;
   }
-
 }
 
 @media (max-width: 300px) {
@@ -527,7 +521,6 @@ hr {
   }
 
   .cuartocontenedor {
-
     font-size: 9px;
   }
 
@@ -535,7 +528,6 @@ hr {
     margin-top: 13px;
   }
 }
-
 
 @media (max-width: 250px) {
   .textocorreo {
@@ -571,17 +563,18 @@ hr {
   }
 
   .cuartocontenedor {
-
     font-size: 13px;
   }
 
   .textototal {
     margin-top: 17px;
   }
-.textofecha{
-  font-size: 15px;
-}
-.textofactura{
-  font-size: 15px;
-}
+
+  .textofecha {
+    font-size: 15px;
+  }
+
+  .textofactura {
+    font-size: 15px;
+  }
 }
